@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name":"Mohammad Saleh Refahi",
+    "occupation":"ISC",
+    "description":"I am a machine learning developer at the fraud management group of the ISC company. I cooperate to develop fraud detection applications in a large number of transactions. Besides, I am studying to improve my biology knowledge by reading  ",
+    "description1":"and taking the \"Network Analysis in Systems Biology \" course in the coursera. ",
+    "image":"profilepic.jpg",
+    "currentBook":"\t\"Essential cell biology\"\t",
+    "bio":"My enthusiasm for studying and researching the human genome and human disease is beyond the belief. ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mohammadsaleh.refahi@gmail.com",
+    "phone": "+989120502355",
+    "address":{
+      "street":"Mirdamad",
+      "city":"Tehran",
+      "state":"Tehran",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1lOv3YBrS810P6bFp3Ca0abT7KXOB-9li/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mohammad-saleh-refahi-04355396/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/MsAlEhR",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"stackOverflow",
+        "url":"https://stackoverflow.com/users/7576690/king-saleh?tab=profile",
+        "className":"fa fa-stack-overflow"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Amirkabir University of Technology",
+        "degree":"Bachelor of Science Electrical Engineering",
+        "graduated":"September 2018",
+        "description":"Overall GPA 3.27 out of 4"
+      },
+      {
+        "school":"Shiraz University",
+        "degree":"Electrical Engineering",
+        "graduated":"September 2015",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Informatic Service Corporation(ISC)",
+        "title":"Machine Learning Researcher And Software Developer",
+        "years":"September 2018 - Present",
+        "description":"Contributed in design fraud detection systems, including data, pre-processing, optimization,post-processing, and interfaces for user interaction. Determined and developed algorithms to improve and optimize operational processes."
+      },
+      {
+        "company":"SAMIM Group",
+        "title":"Consultant",
+        "years":"March 2018-September 2018",
+        "description":"Advised on design, planning and implementation of OCR projects. Create an OCR program to detect number on Water metering in python and also on ARM micro controllers."
+      },
+      {
+        "company":"Iranian Research Institute For Information Science (IRANDOC)",
+        "title":"Research Assistant",
+        "years":"September 2017-December 2018",
+        "description":"Extracting discriminated features from integration of evolutionary feature extraction methods from protein sequences and using the SVM to evaluate our method on benchmark datasets."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Protein Fold Recognition",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"proteinFold.jpg",
+        "url":"https://github.com/MsAlEhR"
+      },
+      {
+        "title":"Drag-Drop query builder",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://github.com/MsAlEhR"
+      },
+      {
+        "title":"Social Network",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"https://github.com/MsAlEhR"
+      },
+      {
+        "title":"#3D glasses",
+        "category":"A React based resume website template",
+        "image":"overlay-bg.png",
+        "url":"https://github.com/MsAlEhR"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
