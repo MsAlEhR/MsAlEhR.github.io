@@ -7,7 +7,7 @@
     "image":"profilepic.png",
     "currentBook":"\t\"Essential cell biology\"\t",
     "bio":"My enthusiasm for studying and researching the human genome and human disease is beyond the belief. ",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"",
     "email": "mohammadsaleh.refahi@gmail.com",
     "phone": "+989120502355",
     "address":{
@@ -37,7 +37,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"Amirkabir University of Technology",
@@ -107,27 +107,34 @@
     "projects": [
       {
         "title":"Protein Fold Recognition",
-        "category":"My Travel Blog for my post-university travels",
+        "category":"Python",
         "image":"proteinFold.jpg",
-        "url":"https://github.com/MsAlEhR"
+        "url":"https://github.com/MsAlEhR",
+        "description": "Protein fold recognition plays a crucial role in discovering three-dimensional structure of proteins and protein functions. Several approaches have been employed for the prediction of protein folds. Some of these approaches are based on extracting features from protein sequences and using a strong classifier. Feature extraction techniques generally utilize syntactical-based information, evolutionary-based information and physiochemical-based information to extract features. In recent years, Finding an efficient technique for integrating discriminate features have been received advancing attention. In this study, we integrate Auto-Cross-Covariance (ACC) and Separated dimer (SD) evolutionary feature extraction methods. The results features are scored by Information gain (IG) to define and select several discriminated features. According to three benchmark datasets, DD, RDD and EDD, the results of the support vector machine (SVM) show more than 6% improvement in accuracy on these benchmark datasets."
       },
       {
         "title":"#3D glasses",
-        "category":"A React based resume website template",
+        "category":"Python",
         "image":"overlay-bg.png",
-        "url":"https://github.com/MsAlEhR"
+        "url":"https://github.com/MsAlEhR",
+        "description": ""
+
+      },
+      {
+        "title":"#Drag and Drop React Query Builder",
+        "category":"React",
+        "image":"dnd.png",
+        "url":"https://github.com/MsAlEhR",
+        "description": "This is state of art query builder.In this project, I try to focus on people who have no SQL knowledge and they want to define some rule or expression for running on databse."
+
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"",
-        "user":""
+        "text":"I never made one of my discoveries through the process of rational thinking",
+        "user":"Albert Einstein"
       }
     ]
   }
