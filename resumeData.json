@@ -3,13 +3,13 @@
     "name":"Mohammad Saleh Refahi",
     "occupation":"ISC",
     "description":"I am a Machine Learning Engineer",
-    "description1":"and taking the \"Network Analysis in Systems Biology \" course in the coursera. ",
+    "description1":"",
     "image":"profilepic.png",
     "currentBook":"\t\"Essential cell biology\"\t",
     "bio":"My enthusiasm for studying and researching the human genome and human disease is beyond the belief. ",
     "contactmessage":"",
     "email": "mohammadsaleh.refahi@gmail.com",
-    "phone": "+989120502355",
+    "phone": "+98912****",
     "address":{
       "street":"Mirdamad",
       "city":"Tehran",
@@ -78,22 +78,6 @@
       {
         "name":"ReactJs",
         "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   },
