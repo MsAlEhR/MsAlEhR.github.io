@@ -2,7 +2,7 @@
   "main": {
     "name":"Mohammad Saleh Refahi",
     "occupation":"ISC",
-    "description":"I am a machine learning developer at the fraud management group of the ISC company. I cooperate to develop fraud detection applications in a large number of transactions. Besides, I am studying to improve my biology knowledge by reading  ",
+    "description":"I am a Machine Learning Engineer",
     "description1":"and taking the \"Network Analysis in Systems Biology \" course in the coursera. ",
     "image":"profilepic.png",
     "currentBook":"\t\"Essential cell biology\"\t",
@@ -58,12 +58,6 @@
         "title":"Machine Learning Researcher And Software Developer",
         "years":"September 2018 - Present",
         "description":"Contributed in design fraud detection systems, including data, pre-processing, optimization,post-processing, and interfaces for user interaction. Determined and developed algorithms to improve and optimize operational processes."
-      },
-      {
-        "company":"SAMIM Group",
-        "title":"Consultant",
-        "years":"March 2018-September 2018",
-        "description":"Advised on design, planning and implementation of OCR projects. Create an OCR program to detect number on Water metering in python and also on ARM micro controllers."
       },
       {
         "company":"Iranian Research Institute For Information Science (IRANDOC)",
