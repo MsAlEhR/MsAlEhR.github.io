@@ -38,19 +38,35 @@
   },
   "resume":{
     "skillmessage":"",
-    "education":[
-      {
-        "school":"Amirkabir University of Technology",
-        "degree":"Bachelor of Science Electrical Engineering",
-        "graduated":"September 2018",
-        "description":"Overall GPA 3.27 out of 4"
-      }
-    ],
+"education": [
+  {
+    "school": "Drexel University",
+    "degree": "Bachelor of Science Electrical Engineering",
+    "graduated": ""
+  },
+  {
+    "school": "Drexel University",
+    "degree": "Machine Learning Engineering",
+    "graduated": "December 2024"
+  },
+  {
+    "school": "Amirkabir University of Technology",
+    "degree": "Bachelor of Science Electrical Engineering",
+    "graduated": "September 2018"
+  }
+],
     "work":[
+
+      {
+        "company":"Drexel University",
+        "title":"Research Assistant",
+        "years":"September 2022 - Present",
+        "description":"Contributed in design fraud detection systems, including data, pre-processing, optimization,post-processing, and interfaces for user interaction. Determined and developed algorithms to improve and optimize operational processes."
+      },
       {
         "company":"Informatic Service Corporation(ISC)",
         "title":"Machine Learning Researcher And Software Developer",
-        "years":"September 2018 - Present",
+        "years":"September 2018 - September 2022 ",
         "description":"Contributed in design fraud detection systems, including data, pre-processing, optimization,post-processing, and interfaces for user interaction. Determined and developed algorithms to improve and optimize operational processes."
       },
       {
@@ -63,15 +79,19 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"100%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Python",
+        "level":"100%"
+      },
+        {
+        "name":"Deep Learning",
+        "level":"90%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"100%"
       }
     ]
   },
@@ -92,14 +112,7 @@
         "description": ""
 
       },
-      {
-        "title":"#Drag and Drop React Query Builder",
-        "category":"React",
-        "image":"dnd.png",
-        "url":"https://github.com/MsAlEhR",
-        "description": "This is state of art query builder.In this project, I try to focus on people who have no SQL knowledge and they want to define some rule or expression for running on databse."
-
-      }
+      
     ]
   },
   "testimonials":{
